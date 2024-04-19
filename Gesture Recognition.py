@@ -146,8 +146,3 @@ plt.figure(figsize=(10,10))
 cm = confusion_matrix(np.argmax(y_test, axis=1), np.argmax(model.predict(X_test), axis=1))
 sn.heatmap(cm, annot=True,xticklabels=cat, yticklabels=cat)
 plt.plot()
-
-"""If you find this kernel helpful, Please <b style="color:green">UPVOTES.</b>
-
-if you have any query regarding this, comment below.
-"""
