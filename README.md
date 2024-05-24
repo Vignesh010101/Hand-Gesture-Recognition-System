@@ -1,4 +1,5 @@
-# PRODIGY_ML_TASK4
+# Hand Gesture Recognition System
+
 Hand Gesture Recognition model that can accurately identify and classify different hand gestures from image or video data, enabling intuitive human-computer interaction and gesture-based control systems.
 
 Task description: Developing robust behavior recognition models for better understanding of human-computer interaction and guided control. This work involves the development of machine learning models that can recognize and classify various movements using image or video data.
