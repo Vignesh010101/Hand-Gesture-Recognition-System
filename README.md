@@ -33,5 +33,3 @@ Information:
 -Visualization Skills: Develop the ability to visualize predictive models and interpret results effectively.
 
 -Applications: Explore real-life applications of gesture recognition, such as human-computer interaction and gesture control.
-
-Work done during the machine learning internship at Prodigy Infotech.
